@@ -1,0 +1,31 @@
+[1mdiff --git a/readmi.md b/readmi.md[m
+[1mindex dc1ad74..4db21a3 100644[m
+[1m--- a/readmi.md[m
+[1m+++ b/readmi.md[m
+[36m@@ -1,3 +1,6 @@[m
+ mantive essa linha[m
+ [m
+[31m-add mais uma linha[m
+\ No newline at end of file[m
+[32m+[m[32madd mais uma linha[m
+[32m+[m
+[32m+[m[32maa[m
+[32m+[m[32m\[m
+\ No newline at end of file[m
+[1mdiff --git a/stylee.css b/stylee.css[m
+[1mindex dfaf5dd..6073148 100644[m
+[1m--- a/stylee.css[m
+[1m+++ b/stylee.css[m
+[36m@@ -1 +1,9 @@[m
+[31m-add um alinha[m
+\ No newline at end of file[m
+[32m+[m[32ma[m
+[32m+[m
+[32m+[m[32madicionar uma linha[m
+[32m+[m
+[32m+[m
+[32m+[m[32ma[m
+[32m+[m
+[32m+[m[32ma[m
+[32m+[m[32ma[m
+\ No newline at end of file[m
